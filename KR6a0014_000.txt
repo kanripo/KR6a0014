@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 人本欲生經
+#+DATE: 2015-08-30 19:28:04.447345
+#+PROPERTY: JUAN 0
